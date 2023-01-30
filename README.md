@@ -28,10 +28,15 @@ This will allow farmers to list their products with their prices. Customers have
 
 ### 2. Install Dependencies:
 `$ npm install`  (inside '/Frontend' and inside '/Frontend/client')
+
 `$ npm install dotenv`
+
 `$ pip install djangorestframework`
+
 `$ pip install djangorestframework-simplejwt`
+
 `$ pip install django-cors-headers`
+
 `$ pip install python-dotenv`
 
 ### 3. Run tests
